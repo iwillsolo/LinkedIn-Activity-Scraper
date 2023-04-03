@@ -25,7 +25,7 @@ python Activity.py -U your_username -P your_password -l profile_link
 
 Replace your_username and your_password with your LinkedIn credentials, and profile_link with the link to the profile whose activity you want to scrape.
 
-The script will open a Chrome window, login to LinkedIn, navigate to the profile's activity page, scroll down to load all the activities, and save them as a JSON file named activities.json in the project directory.
+The script will open LinkedIn login page, login to LinkedIn, navigate to the profile's activity page, scroll down to load all the activities, and save them as a JSON file named activities.json in the project directory.
 
 ## Disclaimer
 This script is intended for educational and research purposes only. Use it at your own risk. The developer is not responsible for any legal or ethical issues that may arise from the use of this script.
