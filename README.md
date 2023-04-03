@@ -27,5 +27,5 @@ Replace your_username and your_password with your LinkedIn credentials, and prof
 
 The script will open a Chrome window, login to LinkedIn, navigate to the profile's activity page, scroll down to load all the activities, and save them as a JSON file named activities.json in the project directory.
 
-Disclaimer
+## Disclaimer
 This script is intended for educational and research purposes only. Use it at your own risk. The developer is not responsible for any legal or ethical issues that may arise from the use of this script.
